@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TV Home</string>
+    <string name="a11y_label">TV Home – Home button</string>
+    <string name="a11y_description">Brings TV Home to the front when you press the Home button.</string>
+</resources>
