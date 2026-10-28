@@ -29,13 +29,29 @@ It is written in Kotlin with Jetpack Compose, and it runs on the Fire TV Stick 4
 
 These were all taken on my Fire TV Stick.
 
-| Mirror lake wallpaper | Menu (☰) on an app |
-|---|---|
-| ![Home screen on the mirror lake wallpaper](docs/screenshots/home-lake.jpg) | ![Move up and Move down menu](docs/screenshots/move-menu.jpg) |
+<table>
+  <tr>
+    <td width="50%" align="center"><b>Mirror lake wallpaper</b></td>
+    <td width="50%" align="center"><b>Menu (☰) on an app</b></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="docs/screenshots/home-lake.jpg" width="100%" alt="Home screen on the mirror lake wallpaper"></td>
+    <td width="50%"><img src="docs/screenshots/move-menu.jpg" width="100%" alt="Move up and Move down menu"></td>
+  </tr>
+</table>
 
-| Alpine | Sunset | Misty forest |
-|---|---|---|
-| ![Alpine wallpaper](docs/screenshots/wallpaper-alpine.jpg) | ![Sunset wallpaper](docs/screenshots/wallpaper-sunset.jpg) | ![Misty forest wallpaper](docs/screenshots/wallpaper-forest.jpg) |
+<table>
+  <tr>
+    <td width="33%" align="center"><b>Alpine</b></td>
+    <td width="33%" align="center"><b>Sunset</b></td>
+    <td width="33%" align="center"><b>Misty forest</b></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="docs/screenshots/wallpaper-alpine.jpg" width="100%" alt="Alpine wallpaper"></td>
+    <td width="33%"><img src="docs/screenshots/wallpaper-sunset.jpg" width="100%" alt="Sunset wallpaper"></td>
+    <td width="33%"><img src="docs/screenshots/wallpaper-forest.jpg" width="100%" alt="Misty forest wallpaper"></td>
+  </tr>
+</table>
 
 ## Using the remote
 
