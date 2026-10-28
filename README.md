@@ -2,11 +2,25 @@
 
 A minimal home screen for the Fire TV Stick 4K (2nd gen, Fire OS 8 / Android 11), written in Kotlin with Jetpack Compose. It replaces Amazon's home screen with a photo wallpaper, a frosted-glass list of your streaming apps, and a large clock.
 
+![TV Home on the Big Sur wallpaper](docs/screenshots/home-big-sur.jpg)
+
 - Apps shown as white logos made from each app's own icon: Apple TV, Disney+, Hulu, Netflix, Peacock, Plex, Prime Video, YouTube
 - D-pad to move, Select to open, Menu (☰) to move an app up or down (order is saved)
 - Back does nothing on the home screen
 - Top-right buttons: change wallpaper, open Fire TV Settings
 - Five built-in CC0 photo wallpapers, plus your own photos from `Pictures/TVHome`
+
+## Screenshots
+
+Captured on the stick itself.
+
+| Mirror lake wallpaper | Menu (☰) on an app |
+|---|---|
+| ![Home screen on the mirror lake wallpaper](docs/screenshots/home-lake.jpg) | ![Move up / Move down menu](docs/screenshots/move-menu.jpg) |
+
+| Alpine | Sunset | Misty forest |
+|---|---|---|
+| ![Alpine wallpaper](docs/screenshots/wallpaper-alpine.jpg) | ![Sunset wallpaper](docs/screenshots/wallpaper-sunset.jpg) | ![Misty forest wallpaper](docs/screenshots/wallpaper-forest.jpg) |
 
 ## How it takes over Home on Fire OS 8
 
